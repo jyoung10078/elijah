@@ -44,6 +44,8 @@ for msg in reversed(messages):
         last_ai_content = msg["content"] if isinstance(msg["content"], str) else ""
         break
 
+print("Raw AI response content:", raw_response)  # Debugging output
+
 try:
     structured_response = parser.parse(last_ai_content)
     print(structured_response)
