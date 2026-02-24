@@ -144,8 +144,5 @@ wiki_tool = Tool(
 create_powerpoint_tool = Tool(
     name="create_powerpoint",
     func=create_powerpoint,
-    description=(
-        "Generates a PowerPoint (.pptx) presentation file from structured insights text. "
-        "Sections in the input text delimited by '###' will become individual slides with the section title as the slide title and the content as bullet points."
-    ),
+    description="Generates a PowerPoint (.pptx) presentation file from structured insights text. Sections in the input text delimited by '###' will become individual slides with the section title as the slide title and the content as bullet points."
 )
