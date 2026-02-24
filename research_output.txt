@@ -64,3 +64,79 @@ RESEARCH REPORT: THE CURRENT STATE OF THE HEALTHCARE SYSTEM IN THE UNITED STATES
 - Maternal mortality rates rising, with new policy restrictions adding pressure.
 
 
+--- Research Output ---
+Timestamp: 2026-02-24 04:18:19
+
+
+=== RESEARCH: CURRENT STATE OF THE CANADIAN HEALTHCARE SYSTEM ===
+
+--- OVERVIEW ---
+- Canada's healthcare system, known as Medicare, is a publicly funded, single-payer system.
+- It is governed by the Canada Health Act, guaranteeing universal coverage for hospital and physician services for citizens and permanent residents.
+- The system is decentralized: provincial and territorial (PT) governments are primarily responsible for governance, regulation, co-financing, and administration.
+- Canada has 13 provinces and territories, each operating its own health plan under federal standards.
+
+--- FUNDING & SPENDING ---
+- In 2024, total health care spending in Canada was estimated at $372 billion CAD.
+- This represents approximately 12.4% of Canada's GDP.
+- Total health care spending increased by 5.7% in 2024.
+- Hospital expenditures increased by 6.1%; Drug expenditures increased by 3.8%.
+- Health expenditure growth has slowed from 7.4% (2023) to 6.1% (2024).
+- Public sector accounts for the largest share of health expenditure.
+- Ontario's health sector spending in 2024-25: ~$91.6 billion, projected to grow at 0.7% annually.
+
+--- KEY CHALLENGES ---
+1. DOCTOR & WORKFORCE SHORTAGE
+   - Ontario Medical Association reports a shortage of ~2,000 doctors.
+   - About 500,000 Canadians left emergency departments in 2024 without being seen by a doctor.
+   - 73% of physicians cited poor system integration or unconnected systems as major challenges (CMA 2024 survey).
+   - Many Canadians lack access to a family doctor.
+
+2. WAIT TIMES
+   - Canada's public healthcare system faces persistent challenges with waiting times.
+   - From April 2023 to March 2024, an estimated 28,000 patients died while waiting for surgery or a diagnostic scan.
+   - The Fraser Institute's 2025 survey reports wait times for surgical/therapeutic treatments decreased slightly but remain critically high.
+
+3. NURSING CRISIS
+   - Over 50% of nurses in Canada reported feeling burnt out and had considered leaving their jobs (2024 national survey).
+   - Nursing force has among the highest rates of burnout, injury, and illness.
+   - COVID-19 pandemic exacerbated the pre-existing nursing shortage.
+   - Shortage of nursing educators and faculty in academia.
+   - Many nurses are leaving the profession earlier than expected due to unsustainable working conditions.
+
+4. HEALTH EQUITY GAPS
+   - Persistent health disparities among Indigenous, Black, and racialized communities.
+   - Gaps in service delivery and health outcomes for marginalized populations.
+   - National pharmacare program remains in limbo — federal government not in active talks with most provinces.
+
+5. SYSTEMIC ISSUES
+   - Understaffing, poor training, and neglected triage persist.
+   - Poor integration of health information systems across the country.
+
+--- DIGITAL HEALTH & INNOVATION ---
+- In 2023, the Canadian government implemented a Digital Health Strategy to enhance access to services including mental health via digital platforms.
+- In June 2025, Canada Health Infoway employed AI tools to improve the healthcare system.
+- 2025 marks a turning point in Canadian healthcare with increased focus on trust, governance, and digital transformation.
+- CDA-AMC (formerly CADTH) releases annual Watch Lists identifying technologies to transform health systems.
+
+--- MENTAL HEALTH ---
+- Expanded investment in mental health promotion and prevention programming, including in Indigenous communities.
+- Digital health platforms are being leveraged to expand mental health service access.
+
+--- PHARMACARE ---
+- Canada's public pharmacare program remains in limbo.
+- The federal health minister confirmed Ottawa is not currently in active talks with remaining provinces and territories.
+- Goal: Ensure every Canadian has access to essential medications and medical devices.
+
+--- CYBERSECURITY ---
+- Canada Healthcare Cybersecurity Market valued at USD 1,123.46 million in 2024.
+- Expected to reach USD 2,302 million by 2030 (CAGR of 13.61%).
+
+--- GLOBAL CONTEXT ---
+- The US spent ~$14,885 per person on healthcare in 2024 — the highest per capita globally.
+- Canada, while spending significantly less per capita, still ranks among higher-spending universal healthcare nations.
+- Canada's universal healthcare is described as being "at a crossroads, requiring ethical reform."
+
+=== END OF RESEARCH ===
+
+

@@ -3,7 +3,7 @@ from pydantic import BaseModel
 from langchain_core.output_parsers import PydanticOutputParser
 from langchain.agents import create_agent
 from langchain_core.messages import AIMessage
-from tools import search_tool, wiki_tool, save_tool
+from tools import search_tool, wiki_tool, save_tool, create_powerpoint_tool
 
 load_dotenv()
 
@@ -21,7 +21,7 @@ system_prompt = f"""You are a research assistant that will help generate a resea
 Answer the user query and use necessary tools.
 Create a powerpoint presentation with your insights using the 'create_powerpoint' tool, and save it as 'dataset_insights.pptx'."""
 
-tools = [search_tool, wiki_tool, save_tool]
+tools = [search_tool, wiki_tool, save_tool, create_powerpoint_tool]
 agent = create_agent(
     model="claude-sonnet-4-6",
     tools=tools,
