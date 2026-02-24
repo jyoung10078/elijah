@@ -51,3 +51,68 @@ Sources:
 - MLB Statcast / MLB.com
 
 
+--- Research Output ---
+Timestamp: 2026-02-24 04:12:52
+
+
+RESEARCH REPORT: THE CURRENT STATE OF THE HEALTHCARE SYSTEM IN THE UNITED STATES
+
+1. OVERVIEW
+- The U.S. healthcare system is one of the largest and most complex in the world.
+- It is largely provided by private entities, with a mix of public programs (Medicare, Medicaid).
+- In 2024, 92% of Americans (about 310 million people) had health insurance for some or all of the year.
+- Private health insurance: 66.1% | Public coverage: 35.5%
+
+2. HEALTHCARE SPENDING
+- U.S. health care spending in 2024: $5.3 trillion (18% of GDP).
+- Health spending increased by 7.2% from 2023 to 2024.
+- In 2023, health spending was 17.6% of GDP (~$4.9 trillion).
+- National health expenditures projected to grow 8.2% in 2024 and 7.1% in 2025.
+- Physician and clinical services accounted for $1.1 trillion (21%) of spending in 2024.
+- By comparison, in 2000, health expenditures were ~$1.4 trillion.
+
+3. INSURANCE COVERAGE & ACCESS
+- 8% of Americans (about 26 million) remain uninsured.
+- 10 states have not fully expanded Medicaid under the ACA.
+- Texas has the highest uninsured rate (16.6%); Massachusetts the lowest (2.4%).
+- Hispanic Americans have the highest uninsured rates and the most cost-related barriers to care.
+
+4. HEALTHCARE WORKFORCE CHALLENGES
+- The U.S. faces growing healthcare workforce shortages driven by maldistribution of providers, burnout, and systemic issues.
+- More than 122 million people lived in a Mental Health Professional Shortage Area as of December 2024.
+- Physician shortages are concentrated in rural and underserved urban areas.
+- Burnout, secondary trauma, and compassion fatigue are major issues across the workforce.
+
+5. RACIAL & SOCIOECONOMIC DISPARITIES
+- White populations generally receive better quality care compared to Black, Hispanic, AIAN, and AANHPI communities.
+- Nonelderly AIAN, Black, Hispanic, and NHPI people are more likely to be uninsured than White counterparts.
+- Unequal access to primary care is a key driver of disparities in healthcare quality.
+- Hispanic people have lower premature mortality rates despite higher uninsured rates.
+
+6. MENTAL HEALTH
+- 122+ million Americans live in Mental Health Professional Shortage Areas (as of Dec 2024).
+- Federal actions in 2024–2025 threaten to reduce access to mental health and substance use disorder services.
+- Behavioral healthcare faces financial, structural, and policy barriers to quality access.
+- Mental health parity remains an ongoing legislative and policy issue.
+
+7. TECHNOLOGY & INNOVATION
+- 71.4% of physicians reported using telehealth weekly in 2024, up from 25.1% in 2018.
+- AI in U.S. healthcare market estimated at $13.26 billion in 2024, projected to grow at 36.76% CAGR.
+- Generative AI solutions are being rapidly adopted across healthcare organizations.
+- AI is improving diagnostics, treatment decisions, and patient care delivery.
+- Telehealth has become a mainstream channel post-pandemic.
+
+8. KEY CHALLENGES
+- Rising costs far exceed inflation and GDP growth.
+- Significant geographic, racial, and socioeconomic disparities in access and quality.
+- Workforce shortages, especially in mental health and rural care.
+- Ongoing debates around ACA sustainability, Medicaid expansion, and pharmaceutical pricing.
+- Post-pandemic stress on the healthcare system structure and workforce.
+
+9. POLICY LANDSCAPE
+- The Affordable Care Act (ACA) remains central to coverage expansion.
+- Medicaid expansion still incomplete in 10 states.
+- Debates on drug pricing, surprise medical billing, and mental health parity continue.
+- Maternal mortality rates rising, with new policy restrictions adding pressure.
+
+

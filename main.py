@@ -17,17 +17,15 @@ class ResearchResponse(BaseModel):
 parser = PydanticOutputParser(pydantic_object=ResearchResponse)
 format_instructions = parser.get_format_instructions()
 
-system_prompt = f"""You are a research assistant that will help generate a research paper.
+system_prompt = f"""You are a research assistant that will help generate a research presentation.
 Answer the user query and use necessary tools.
-Wrap the output in this format and provide no other text:
-{format_instructions}"""
+Create a powerpoint presentation with your insights using the 'create_powerpoint' tool, and save it as 'dataset_insights.pptx'."""
 
 tools = [search_tool, wiki_tool, save_tool]
 agent = create_agent(
     model="claude-sonnet-4-6",
     tools=tools,
     system_prompt=system_prompt,
-    debug=True,
 )
 
 query = input("What can I help you research? ")
@@ -46,6 +44,5 @@ for msg in reversed(messages):
 
 try:
     structured_response = parser.parse(last_ai_content)
-    print(structured_response)
 except Exception as e:
     print("Error parsing response:", e, "Raw content:", last_ai_content or raw_response)
