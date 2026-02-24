@@ -3,6 +3,7 @@ wikipedia
 langchain-community
 langchain-openai
 langchain-anthropic
+anthropic>=0.83.0
 python-dotenv
 pydantic
 openai
